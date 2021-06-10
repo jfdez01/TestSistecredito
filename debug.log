@@ -1,0 +1,4 @@
+[1015/160451.564:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JORGE~1.MOR\AppData\Local\Temp\scoped_dir20704_1898665729\Crashpad\attachments\013e428f-95ae-4dfd-b001-bf4c382ad5c1: The system cannot find the path specified. (0x3)
+[1019/151453.045:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JORGE~1.MOR\AppData\Local\Temp\scoped_dir9168_1018726671\Crashpad\attachments\77070aa4-18fc-49fe-8f6d-c843e48923da: The system cannot find the path specified. (0x3)
+[1020/111645.588:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/173608.504:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\JORGE~1.MOR\AppData\Local\Temp\scoped_dir16680_1823753328\Crashpad\attachments\3e82ba1a-b370-4457-8c68-814b9c55df99: The system cannot find the path specified. (0x3)
